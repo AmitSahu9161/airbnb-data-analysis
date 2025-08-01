@@ -131,8 +131,8 @@ The dataset includes over 100,000 Airbnb listings with 25+ columns, such as:
 
 **Amit Sahu**
 B.Tech in CSE | Data Science & Python Enthusiast
-📧 [amit@example.com](mailto:amit@example.com)
-🌐 [GitHub](https://github.com/your-username)
+📧 [amit@example.com](mailto:sahuamit1608@gmail.com)
+🌐 [GitHub](https://github.com/AmitSahu9161/airbnb-data-analysis/edit/main/README.md)
 
 ---
 
